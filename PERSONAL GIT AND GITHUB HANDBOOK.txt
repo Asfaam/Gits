@@ -468,7 +468,7 @@ You can simply get the link to your repository on GitHub. It is not necessary to
 “https://github.com/Asfaam/Name-of-the-repository.git” is the link of the repository above.
 
 	(*) git branch -M main
-	(*)git push -u origin main
+	(*) git push -u origin main
 To make sure you have pushed everything including all the sub-branches as well as ‘main’ branch, try the following code:
 	(*) git push --all
 

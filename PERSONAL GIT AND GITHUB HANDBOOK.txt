@@ -541,3 +541,13 @@ o	git branch -m master main
 o	git fetch origin
 o	git  branch -u origin/main main
 o	git remote set-head origin -a 
+
+
+
+
+To delete a folder and its content!!
+(*) git rm -rf folder_name
+(*) git add .
+(*) git commit -m "Removed folder_name"
+(*) git push origin branch_name
+(*) git push --all

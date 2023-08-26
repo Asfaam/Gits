@@ -1,0 +1,17 @@
+** ANACONDA **
+1. This should display the installed conda version: conda --version.
+
+2. To update Anaconda : "conda update anaconda"
+
+
+** PYTHON **
+1. python --version
+2. python myfile.py
+
+
+** JAVA **
+1. java --version
+
+2. javac myfile.java
+
+3. java myfile

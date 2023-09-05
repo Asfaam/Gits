@@ -6,8 +6,8 @@
    - Open the system information tool, and you should find the manufacturer and model information listed under "System Manufacturer" and "System Model."
 
 2. **Visit the manufacturer's website**:
-   - Once you have the make and model information, go to the official website of your laptop manufacturer.
-
+   - Once you have the make and model information, go to the official website of your laptop manufacturer - LENOVO 82H9 official website
+ 
 3. **Locate the support or drivers section**:
    - Look for a "Support," "Drivers," or "Downloads" section on the website. Manufacturers often provide a support section where you can find drivers for your specific laptop model.
 

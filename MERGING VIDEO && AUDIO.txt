@@ -1,0 +1,39 @@
+*** MERGING VIDEO AND AUDIO USING DA VINCI RESOLVE ***
+
+1. You must have Da Vinci pre-installed.
+
+2. Open Da Vinci.
+
+3. Create a new Project and give it a name (Remember to save the project after merging the video and audio.)
+
+4. Open the project you wish to work with.
+
+5. At the top left; Go to:
+	a. File
+	b. Import
+	c. Media
+	This will open the file explorer. Choose the video(s) and or music(s) you wish to merge, one after the other. 
+	It's advisable to pass the audio through `Audacity` to apply the noise reduction effect.
+
+6. Click on the Edit button. Look at the bottom of the page. An icon looks like a stack of books (the 3rd icon from your left-hand side), this is the Edit button.
+
+7. You can manually drag and drop the video and audio for editing, trimming etc:
+	a. For multiple videos, use `Ctrl + A` to highlight the different videos and music. Right-click and select `New Compound Clip`. (Not so necessary: Give it a name ).
+	b.For a single video and a single music, use the automatic fusion technique:
+		i. Highlight the video and music.
+		ii. Right-click and select Auto Sync Audio.
+		iii. Drag either the music or the video file into the timeline to preview.
+
+8. We need to save our work and store it in our local storage.
+
+9. Look at the bottom of the page again. You will see an icon that looks like a rocket or plane, this is the Deliver button. Select the Deliver button.
+
+10. Provide a name for the file (merged video/audio). provide the file path/location.
+
+11. For a simple video, it's advisable to just go ahead and Add to Render Queue. But you can add additional settings such as including HD resolution, subtitle etc.
+
+12. Click on Add to Render Queue.
+
+13. A queue showing that the file is ready to render, pops up on the top right of the screen. Click Render or Render All. To Render the single file or all the files ready to render.
+
+14. Go to your local storage, to the path you specified for storing the file (merged video/audio). You will see the file stored in your local storage.

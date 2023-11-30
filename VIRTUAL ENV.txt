@@ -1,0 +1,36 @@
+**** CREATING A VIRTUAL ENVIRONMENT IN VS CODE *******
+
+python -m venv venv
+
+pip install streamlit
+pip install mysql-connector-python
+
+Select a python file (preferrably, create main.py. It should only: print("Hello"))
+Select a python interpreter (USe the recommended one).
+Execute using the Run button.
+
+Use cls to clear everything else.
+Type: python -m venv venv
+Select yes (to the pop up menu)
+Use the bin or delete button to clear the console.
+
+Now the recommended python interpreter carries the virtual environment. You can still manually select it just to be sure.
+
+Select the python file again
+Execute again using the Run button.
+
+Use cls again to clear everything else
+Type: pip install streamlit (to install streamlit in your virtual environment)
+Type: pip install mysql-connector-python (to install mysql python connector in your virtual environment).
+
+
+Note: Anytime we wish to use the virtual environment, always use the Run button to open the terminal for the virtual environment. 
+
+Use: streamlit run app.py
+
+
+** Huurayy **
+
+
+
+

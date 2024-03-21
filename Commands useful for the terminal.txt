@@ -1,0 +1,60 @@
+** ANACONDA **
+1. This should display the installed conda version: conda --version.
+
+2. To update Anaconda : "conda update anaconda"
+
+
+** PYTHON **
+1. python --version
+2. python myfile.py
+
+
+** JAVA **
+1. java --version
+
+2. javac myfile.java
+
+3. java myfile
+
+
+Once you have Anaconda installed, you can use it to manage environments, install packages, and run Python code. Here's how you can use Anaconda:
+
+A. Activate Anaconda Environment:
+Anaconda allows you to create isolated environments to manage different sets of packages and dependencies. To activate an environment, open a terminal (or Anaconda Prompt on Windows) and use the following command:
+
+* conda activate <environment_name>
+Replace <environment_name> with the name of the environment you want to activate. If you're using the base environment, you can omit the environment name.
+
+B. Deactivate Environment:
+To deactivate the currently active environment and return to the base environment, use the following command:
+
+* conda deactivate
+
+
+C. Install Packages:
+You can use conda to install packages within the active environment. For example, to install a package named numpy, use the following command:
+
+* conda install numpy
+
+D. Update Packages:
+To update a package to the latest version, use the following command:
+
+* conda update package_name
+
+E. Create New Environment:
+To create a new environment, use the following command:
+
+* conda create --name new_env_name
+You can specify which Python version to use and which packages to install in this environment during creation.
+
+F. Using Anaconda Navigator:
+Anaconda Navigator is a graphical interface that simplifies many of the tasks mentioned above. You can launch it by using the following command:
+
+* anaconda-navigator
+From Navigator, you can create, manage, and switch between environments, install packages, and run applications like Jupyter Notebook.
+
+G. Running Python Scripts:
+Once you've activated an environment, you can run Python scripts within that environment. Open a terminal, navigate to the directory containing your script, and run:
+
+* python your_script.py
+Remember that Anaconda is particularly useful for managing environments and packages related to data science and scientific computing. It provides a convenient way to manage different project requirements and avoid conflicts between packages.

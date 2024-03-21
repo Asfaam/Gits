@@ -1,0 +1,6 @@
+** Settings> Connections> More connection settings> Private DNS **
+
+
+adult-filter-dns.cleanbrowsing.org
+
+

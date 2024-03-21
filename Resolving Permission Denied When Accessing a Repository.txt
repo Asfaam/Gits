@@ -1,0 +1,14 @@
+** Resolving Permission Denied When Accessing a Repository **
+
+# First: Check
+* git remote -v
+
+
+## Second: Change your repository 
+* git remote set-url origin https://github.com/Asfaam/Name-of-the-repository.git   WebTech-Final-Project.git
+
+### Third: Check again
+* git remote -v
+
+#### Fourth: Push
+*git push -u origin main

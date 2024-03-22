@@ -1,0 +1,9 @@
+In the command line, use the following instructions to run C++ codes.
+
+#. First:
+1. g++ -o someCode someCode.cpp
+#. Press Enter
+
+#. Second:
+2. someCode
+#. Press Enter
